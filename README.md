@@ -7,7 +7,7 @@ of the device.
 
 The ESPGateway is available for purchase at [ThingPulse ESPGateway](https://thingpulse.com/product/espgateway/)
 
-![Gateway](/resources/GatewayWithAntenna.jpg)
+![Gateway](https://thingpulse.com/wp-content/uploads/2022/09/GatewayWithAntenna.jpg)
 
 ## The Project
 
@@ -47,11 +47,11 @@ These are the occupied pins relevant for programming:
 #define LED_PIN     32
 ```
 
-![Labelled](/resources/GatewayInside.png)
+![Inside](https://thingpulse.com/wp-content/uploads/2021/04/ESPNowGateway1.jpeg)
 
 ## Photos
 
-![Labelled](/resources/GatewayBackWithLabels.jpg)
-![Back](/resources/GatewayBack.jpg)
-![Perspective](/resources/GatewayPerspective.jpg)
-![Top](/resources/GatewayTop.jpg)
+![Labeled](https://thingpulse.com/wp-content/uploads/2021/05/GatewayBackWithLabels.jpg)
+![Back](https://thingpulse.com/wp-content/uploads/2021/05/GatewayBackPerspective.jpg)
+![Perspective](https://thingpulse.com/wp-content/uploads/2022/09/GatewayWithAntenna.jpg)
+![Top](https://thingpulse.com/wp-content/uploads/2021/05/GatewayTop.jpg)
